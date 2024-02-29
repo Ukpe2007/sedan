@@ -1,0 +1,115 @@
+.container{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: auto;
+    margin-top: auto;
+    
+    
+}
+.orange{
+    background-color: rgb(255, 119, 0);
+    padding-left: 3em;
+    position: relative;
+    min-height: 700px;
+    width: 500px;
+
+}
+.orange h1{
+    font-size: 45px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.orange p{
+    color: white;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5em;
+}
+.orange button{
+    background-color: white;
+    color: rgb(255, 119, 0);
+    border-radius: 20px;
+    border: 0px;
+    padding: 10px;
+}
+.orange button:hover{
+     background: rgb(255, 119, 0);
+     color: white;
+     border: solid white 1px;
+}
+.blue{
+    background-color: rgb(13, 102, 107);
+    padding-left: 3em;
+    position: relative;
+    min-height: 700px;
+    width: 500px;
+}
+.blue h1{
+    font-size: 45px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.blue p{
+    color: white;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5em;
+}
+.blue button{
+    background-color: white;
+    color: rgb(13, 102, 107);
+    border-radius: 20px;
+    border: 0px;
+    padding: 10px;
+}
+.blue button:hover{
+     background: rgb(13, 102, 107);
+     color: white;
+     border: solid white 1px;
+}
+.green{
+    background-color: rgb(30, 57, 43);
+    padding-left: 3em;
+    position: relative;
+    min-height: 700px;
+    width: 500px;
+}
+.green h1{
+    font-size: 45px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.green p{
+    color: white;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5em;
+}
+.green button{
+    background-color: white;
+    color: rgb(30, 57, 43);
+    border-radius: 20px;
+    border: 0px;
+    padding: 10px;
+}
+.green button:hover{
+     background: rgb(30, 57, 43);
+     color: white;
+     border: solid white 1px;
+}
+.container{
+    align-items: center;
+    text-align: left;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    height: 1000px;
+}
+img{
+    width: 40px;
+    height: 40px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
